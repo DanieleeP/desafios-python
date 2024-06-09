@@ -1,0 +1,4 @@
+# Ignorar pastas
+.venv
+__pycache__
+.pytest_cache
