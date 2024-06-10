@@ -28,7 +28,7 @@ python -m venv .venv
 ```
 #### 5. Ativar o ambiente virtual
 ```
-.venv\Scripts\activate
+.venv/Scripts/activate
 ```
 #### 6. Instalar os requisitos
 ```
